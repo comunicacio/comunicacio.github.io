@@ -1,95 +1,95 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="comunicacio.github.io" resolutions="1x" timestamp="1497196693338">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="comunicacio.github.io" resolutions="1x" timestamp="1497201533007">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="4224987017" ref="index"/>
+    <file name="index.css" crc="527992136" ref="index"/>
   </folder>
   <folder name="assets">
     <folder name="pc">
       <folder name="pc.hyperesources">
-        <file name="HYPE-584.full.min.js" crc="83821338" mt="1497196414000"/>
-        <file name="HYPE-584.thin.min.js" crc="4260500519" mt="1497196414000"/>
-        <file name="jquery.min.js" crc="209076791" mt="1497196414000"/>
-        <file name="pc_hype_generated_script.js" crc="72817824" mt="1497196414000"/>
-        <file name="7956DD-restorable.plist" crc="4138574992" mt="1497196414000"/>
-        <file name="botones_inf-01.svg" crc="4251120867" mt="1497196414000"/>
-        <file name="botones_inf-02.svg" crc="306157233" mt="1497196414000"/>
-        <file name="botones_inf-03.svg" crc="4096015459" mt="1497196414000"/>
-        <file name="botones_inf_roll-01.svg" crc="4286377205" mt="1497196414000"/>
-        <file name="botones_inf_roll-02.svg" crc="3783444433" mt="1497196414000"/>
-        <file name="botones_inf_roll-03.svg" crc="536577985" mt="1497196414000"/>
-        <file name="cobertura.svg" crc="119850404" mt="1497196414000"/>
-        <file name="fondo.svg" crc="4022595745" mt="1497196414000"/>
-        <file name="grafico2_fondo.svg" crc="4037527811" mt="1497196414000"/>
-        <file name="leyenda.svg" crc="3951190416" mt="1497196414000"/>
-        <file name="linea.svg" crc="268035719" mt="1497196414000"/>
-        <file name="raton.svg" crc="4153975922" mt="1497196414000"/>
-        <file name="tapa_rect1.svg" crc="4117756046" mt="1497196414000"/>
-        <file name="tapa_rect10.svg" crc="3908445779" mt="1497196414000"/>
-        <file name="tapa_rect11.svg" crc="208640596" mt="1497196414000"/>
-        <file name="tapa_rect12.svg" crc="332494515" mt="1497196414000"/>
-        <file name="tapa_rect13.svg" crc="4108468142" mt="1497196414000"/>
-        <file name="tapa_rect14.svg" crc="89185005" mt="1497196414000"/>
-        <file name="tapa_rect15.svg" crc="295325472" mt="1497196414000"/>
-        <file name="tapa_rect2.svg" crc="418510393" mt="1497196414000"/>
-        <file name="tapa_rect3.svg" crc="436767288" mt="1497196414000"/>
-        <file name="tapa_rect4.svg" crc="4145598765" mt="1497196414000"/>
-        <file name="tapa_rect5.svg" crc="3794064252" mt="1497196414000"/>
-        <file name="tapa_rect6.svg" crc="4116097487" mt="1497196414000"/>
-        <file name="tapa_rect7.svg" crc="4270084263" mt="1497196414000"/>
-        <file name="tapa_rect8.svg" crc="102148186" mt="1497196414000"/>
-        <file name="tapa_rect9.svg" crc="3818439525" mt="1497196414000"/>
-        <file name="tooltip-01.svg" crc="158709867" mt="1497196414000"/>
-        <file name="tooltip-02.svg" crc="405852025" mt="1497196414000"/>
-        <file name="tooltip-03.svg" crc="4132387762" mt="1497196414000"/>
-        <file name="tooltip-04.svg" crc="421948267" mt="1497196414000"/>
-        <file name="tooltip-05.svg" crc="351270937" mt="1497196414000"/>
-        <file name="tooltip-06.svg" crc="54922099" mt="1497196414000"/>
-        <file name="tooltip-07.svg" crc="330894668" mt="1497196414000"/>
-        <file name="tooltip-08.svg" crc="484434901" mt="1497196414000"/>
-        <file name="tooltip-09.svg" crc="4247230147" mt="1497196414000"/>
-        <file name="tooltip-10.svg" crc="4156168463" mt="1497196414000"/>
-        <file name="tooltip-11.svg" crc="83370847" mt="1497196414000"/>
-        <file name="tooltip-12.svg" crc="45416795" mt="1497196414000"/>
-        <file name="tooltip-13.svg" crc="4074240300" mt="1497196414000"/>
-        <file name="tooltip-14.svg" crc="520140194" mt="1497196414000"/>
-        <file name="tooltip-15.svg" crc="3979511120" mt="1497196414000"/>
+        <file name="HYPE-584.full.min.js" crc="83821338" mt="1497201291000"/>
+        <file name="HYPE-584.thin.min.js" crc="4260500519" mt="1497201291000"/>
+        <file name="jquery.min.js" crc="209076791" mt="1497201291000"/>
+        <file name="pc_hype_generated_script.js" crc="384010934" mt="1497201291000"/>
+        <file name="7956DD-restorable.plist" crc="478376151" mt="1497201291000"/>
+        <file name="botones_inf-01.svg" crc="4251120867" mt="1497201291000"/>
+        <file name="botones_inf-02.svg" crc="306157233" mt="1497201291000"/>
+        <file name="botones_inf-03.svg" crc="4096015459" mt="1497201291000"/>
+        <file name="botones_inf_roll-01.svg" crc="4286377205" mt="1497201291000"/>
+        <file name="botones_inf_roll-02.svg" crc="3783444433" mt="1497201291000"/>
+        <file name="botones_inf_roll-03.svg" crc="536577985" mt="1497201291000"/>
+        <file name="cobertura.svg" crc="119850404" mt="1497201291000"/>
+        <file name="fondo.svg" crc="4022595745" mt="1497201291000"/>
+        <file name="grafico2_fondo.svg" crc="4037527811" mt="1497201291000"/>
+        <file name="leyenda.svg" crc="3951190416" mt="1497201291000"/>
+        <file name="linea.svg" crc="268035719" mt="1497201291000"/>
+        <file name="raton.svg" crc="4153975922" mt="1497201291000"/>
+        <file name="tapa_rect1.svg" crc="4117756046" mt="1497201291000"/>
+        <file name="tapa_rect10.svg" crc="3908445779" mt="1497201291000"/>
+        <file name="tapa_rect11.svg" crc="208640596" mt="1497201291000"/>
+        <file name="tapa_rect12.svg" crc="332494515" mt="1497201291000"/>
+        <file name="tapa_rect13.svg" crc="4108468142" mt="1497201291000"/>
+        <file name="tapa_rect14.svg" crc="89185005" mt="1497201291000"/>
+        <file name="tapa_rect15.svg" crc="295325472" mt="1497201291000"/>
+        <file name="tapa_rect2.svg" crc="418510393" mt="1497201291000"/>
+        <file name="tapa_rect3.svg" crc="436767288" mt="1497201291000"/>
+        <file name="tapa_rect4.svg" crc="4145598765" mt="1497201291000"/>
+        <file name="tapa_rect5.svg" crc="3794064252" mt="1497201291000"/>
+        <file name="tapa_rect6.svg" crc="4116097487" mt="1497201291000"/>
+        <file name="tapa_rect7.svg" crc="4270084263" mt="1497201291000"/>
+        <file name="tapa_rect8.svg" crc="102148186" mt="1497201291000"/>
+        <file name="tapa_rect9.svg" crc="3818439525" mt="1497201291000"/>
+        <file name="tooltip-01.svg" crc="158709867" mt="1497201291000"/>
+        <file name="tooltip-02.svg" crc="405852025" mt="1497201291000"/>
+        <file name="tooltip-03.svg" crc="4132387762" mt="1497201291000"/>
+        <file name="tooltip-04.svg" crc="421948267" mt="1497201291000"/>
+        <file name="tooltip-05.svg" crc="351270937" mt="1497201291000"/>
+        <file name="tooltip-06.svg" crc="54922099" mt="1497201291000"/>
+        <file name="tooltip-07.svg" crc="330894668" mt="1497201291000"/>
+        <file name="tooltip-08.svg" crc="484434901" mt="1497201291000"/>
+        <file name="tooltip-09.svg" crc="4247230147" mt="1497201291000"/>
+        <file name="tooltip-10.svg" crc="4156168463" mt="1497201291000"/>
+        <file name="tooltip-11.svg" crc="83370847" mt="1497201291000"/>
+        <file name="tooltip-12.svg" crc="45416795" mt="1497201291000"/>
+        <file name="tooltip-13.svg" crc="4074240300" mt="1497201291000"/>
+        <file name="tooltip-14.svg" crc="520140194" mt="1497201291000"/>
+        <file name="tooltip-15.svg" crc="3979511120" mt="1497201291000"/>
       </folder>
-      <file name="Default.png" crc="4199986822" mt="1497196414000"/>
-      <file name="index.html" crc="3800981654" mt="1497196414000"/>
+      <file name="Default.png" crc="4199986822" mt="1497201291000"/>
+      <file name="index.html" crc="4208303638" mt="1497201291000"/>
     </folder>
     <folder name="movil">
       <folder name="movil.hyperesources">
-        <file name="HYPE-584.full.min.js" crc="83821338" mt="1497194402000"/>
-        <file name="HYPE-584.thin.min.js" crc="4260500519" mt="1497194402000"/>
-        <file name="jquery.min.js" crc="209076791" mt="1497194402000"/>
-        <file name="movil_hype_generated_script.js" crc="4206354117" mt="1497194402000"/>
-        <file name="cobertura.svg" crc="119850404" mt="1497194402000"/>
-        <file name="code_bt.svg" crc="319397273" mt="1497194402000"/>
-        <file name="FD8780-restorable.plist" crc="264583607" mt="1497194402000"/>
-        <file name="fondo_movil-04.svg" crc="102874208" mt="1497194402000"/>
-        <file name="leyenda_bt_movil.svg" crc="32979312" mt="1497194402000"/>
-        <file name="leyenda_movil-01.svg" crc="16644844" mt="1497194402000"/>
-        <file name="linea.svg" crc="268035719" mt="1497194402000"/>
-        <file name="menu.svg" crc="180370934" mt="1497194402000"/>
-        <file name="menu_cerrar.svg" crc="4098254246" mt="1497194402000"/>
-        <file name="tooltips_mobile-01.svg" crc="4140499797" mt="1497194402000"/>
-        <file name="tooltips_mobile-02.svg" crc="45037184" mt="1497194402000"/>
-        <file name="tooltips_mobile-03.svg" crc="4258909627" mt="1497194402000"/>
-        <file name="tooltips_mobile-04.svg" crc="3819347994" mt="1497194402000"/>
-        <file name="tooltips_mobile-05.svg" crc="3902403006" mt="1497194402000"/>
-        <file name="tooltips_mobile-06.svg" crc="111105832" mt="1497194402000"/>
-        <file name="tooltips_mobile-07.svg" crc="19338412" mt="1497194402000"/>
-        <file name="tooltips_mobile-08.svg" crc="3844290192" mt="1497194402000"/>
-        <file name="tooltips_mobile-09.svg" crc="3941540019" mt="1497194402000"/>
-        <file name="tooltips_mobile-10.svg" crc="170321760" mt="1497194402000"/>
-        <file name="tooltips_mobile-11.svg" crc="3833142840" mt="1497194402000"/>
-        <file name="tooltips_mobile-12.svg" crc="3881322456" mt="1497194402000"/>
-        <file name="tooltips_mobile-13.svg" crc="4073543716" mt="1497194402000"/>
-        <file name="tooltips_mobile-14.svg" crc="3961515610" mt="1497194402000"/>
-        <file name="tooltips_mobile-15.svg" crc="3945044300" mt="1497194402000"/>
+        <file name="HYPE-584.full.min.js" crc="83821338" mt="1497201463000"/>
+        <file name="HYPE-584.thin.min.js" crc="4260500519" mt="1497201463000"/>
+        <file name="jquery.min.js" crc="209076791" mt="1497201463000"/>
+        <file name="movil_hype_generated_script.js" crc="4181799901" mt="1497201463000"/>
+        <file name="cobertura.svg" crc="119850404" mt="1497201463000"/>
+        <file name="code_bt.svg" crc="319397273" mt="1497201463000"/>
+        <file name="FD8780-restorable.plist" crc="25938033" mt="1497201463000"/>
+        <file name="fondo_movil-04.svg" crc="102874208" mt="1497201463000"/>
+        <file name="leyenda_bt_movil.svg" crc="32979312" mt="1497201463000"/>
+        <file name="leyenda_movil-01.svg" crc="16644844" mt="1497201463000"/>
+        <file name="linea.svg" crc="268035719" mt="1497201463000"/>
+        <file name="menu.svg" crc="180370934" mt="1497201463000"/>
+        <file name="menu_cerrar.svg" crc="4098254246" mt="1497201463000"/>
+        <file name="tooltips_mobile-01.svg" crc="4140499797" mt="1497201463000"/>
+        <file name="tooltips_mobile-02.svg" crc="45037184" mt="1497201463000"/>
+        <file name="tooltips_mobile-03.svg" crc="4258909627" mt="1497201463000"/>
+        <file name="tooltips_mobile-04.svg" crc="3819347994" mt="1497201463000"/>
+        <file name="tooltips_mobile-05.svg" crc="3902403006" mt="1497201463000"/>
+        <file name="tooltips_mobile-06.svg" crc="111105832" mt="1497201463000"/>
+        <file name="tooltips_mobile-07.svg" crc="19338412" mt="1497201463000"/>
+        <file name="tooltips_mobile-08.svg" crc="3844290192" mt="1497201463000"/>
+        <file name="tooltips_mobile-09.svg" crc="3941540019" mt="1497201463000"/>
+        <file name="tooltips_mobile-10.svg" crc="170321760" mt="1497201463000"/>
+        <file name="tooltips_mobile-11.svg" crc="3833142840" mt="1497201463000"/>
+        <file name="tooltips_mobile-12.svg" crc="3881322456" mt="1497201463000"/>
+        <file name="tooltips_mobile-13.svg" crc="4073543716" mt="1497201463000"/>
+        <file name="tooltips_mobile-14.svg" crc="3961515610" mt="1497201463000"/>
+        <file name="tooltips_mobile-15.svg" crc="3945044300" mt="1497201463000"/>
       </folder>
-      <file name="Default.png" crc="517350238" mt="1497194402000"/>
-      <file name="index.html" crc="3784596684" mt="1497194402000"/>
+      <file name="Default.png" crc="517350238" mt="1497201463000"/>
+      <file name="index.html" crc="227044588" mt="1497201463000"/>
     </folder>
   </folder>
   <folder name="scripts">
@@ -102,10 +102,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4233735875" ref="phone>index"/>
+      <file name="index.css" crc="4289071412" ref="phone>index"/>
       <file name="nomq_index.css" crc="4233316774" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="184864247" seo="true" mt="1497194610686" redirect="true"/>
+    <file name="index.html" crc="212789481" seo="true" mt="1497201510453" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4227291163" seo="true" mt="1497196677868" redirect="true"/>
+  <file name="index.html" crc="482579583" seo="true" mt="1497201513006" redirect="true"/>
 </manifest>
